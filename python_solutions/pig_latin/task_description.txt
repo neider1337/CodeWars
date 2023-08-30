@@ -1,0 +1,2 @@
+pig_it('Pig latin is cool') # igPay atinlay siay oolcay
+pig_it('Hello world !')     # elloHay orldway !
